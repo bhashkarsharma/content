@@ -1,6 +1,7 @@
 ---
 title: Angular Routes
 date: 2017/12/27 18:30:00
+image: "/assets/images/posts/angular.jpg"
 comments: true
 tags: technology, angular
 ---

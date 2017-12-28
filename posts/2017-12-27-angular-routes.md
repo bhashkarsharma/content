@@ -38,6 +38,6 @@ this.router.paramMap.subscribe(params => {
   // do something with optional and required
 });
 ```
-Not just that, the [ParamMap](https://angular.io/api/router/ParamMap) class provides nice getter methods methods to make it easier to access single, or multiple values.
+Not just that, the [ParamMap](https://angular.io/api/router/ParamMap) class provides nice getter methods methods to make it easier to access single, or multiple values. **At the time of writing this post, Router.paramMap does NOT support GET params.**
 
 Hope this helps someone looking for optional arguments in Angular routes.

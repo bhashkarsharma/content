@@ -29,7 +29,7 @@ In a scenario where you have the same component across pages, the component is n
 The problem was that I needed both parameters to resolve before I could start rendering the component.
 
 ### The Solution
-After googling and reading through various blog posts, I was unable to find a good solution to this problem. Finally, I decided to [RTFM](https://en.wikipedia.org/wiki/RTFM), which in hindsight, I should have done sooner. In a [huge page](https://angular.io/guide/router) documenting the router behavior, there are a few lines that mention this scheme. The Angular team has made use of `[Matrix URL notation](https://www.w3.org/DesignIssues/MatrixURIs.html)` which involves optional arguments appearing in the URL separated by semicolons.
+After googling and reading through various blog posts, I was unable to find a good solution to this problem. Finally, I decided to [RTFM](https://en.wikipedia.org/wiki/RTFM), which in hindsight, I should have done sooner. In a [huge page](https://angular.io/guide/router) documenting the router behavior, there are a few lines that mention this scheme. The Angular team has made use of [Matrix URL notation](https://www.w3.org/DesignIssues/MatrixURIs.html) which involves optional arguments appearing in the URL separated by semicolons.
 
 ParamMaps have been introduced in Angular 4.0, and they support Matrix Params. Thus, the solution becomes simple:
 

@@ -1,5 +1,5 @@
 ---
-title: Angular Routes
+title: Angular Routes And Optional Params
 date: 2017/12/27 18:30:00
 image: "/assets/images/posts/angular.jpg"
 comments: true

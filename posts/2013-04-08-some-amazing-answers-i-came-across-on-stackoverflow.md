@@ -2,7 +2,8 @@
 title: Some amazing answers I came across on StackOverflow
 canonical: http://rockerhome.wordpress.com/2013/04/08/some-amazing-answers-i-came-across-on-stackoverflow/
 date: 2013/04/08 20:12:29
-tags: technology, python
+categories: Technology
+tags: python
 ---
 Very descriptive and well-written. Not to mention long.
 

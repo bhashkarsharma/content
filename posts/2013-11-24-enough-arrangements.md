@@ -2,7 +2,7 @@
 title: Enough Arrangements!
 canonical: http://blog.bhashkar.me/2013/11/enough-arrangements.html
 date: "2013-11-24 08:13:00"
-categories: [society, arranged marriage, religion, love]
+tags: society arranged-marriage religion love
 ---
 
 I'm sick and tired of arranged marriages and the slew of shit they bring. Evils ranging from dowry to casteism to superstition like astrology are all prevalent in today's India in a big way, thanks to this epidemic.<span class="more"></span>

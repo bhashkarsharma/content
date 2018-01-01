@@ -2,7 +2,7 @@
 title: If you want to go for an MBA...
 canonical: http://blog.bhashkar.me/2011/10/if-you-want-to-go-for-mba.html
 date: "2011-10-12 03:47:00"
-categories: [heart, steve-jobs, life, love]
+tags: heart steve-jobs life love
 ---
 
 _Read this.. and keep in mind while reading that this talk has been given by a professor of IIMC and that the students were some of the best ones and would easily go ahead and bag the highest paying jobs out there (IIM grads, duh!)_

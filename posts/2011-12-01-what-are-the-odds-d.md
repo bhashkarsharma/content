@@ -2,7 +2,8 @@
 title: What are the odds! :D
 canonical: http://rockerhome.wordpress.com/2011/12/01/what-are-the-odds-d/
 date: 2011/12/01 12:11:26
-tags: technology, unix
+categories: Technology
+tags: unix
 ---
 ![I swear its real!](http://rockerhome.files.wordpress.com/2011/12/screen-shot-2011-12-01-at-12-02-08-pm.png)
 

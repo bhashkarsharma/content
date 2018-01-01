@@ -2,6 +2,8 @@
 title: You can befool all the people, all the time...
 canonical: http://blog.bhashkar.me/2010/07/you-can-befool-all-people-all-time.html
 date: "2010-07-14 14:39:00"
+categories: Technology
+tags: apple product
 ---
 ...as Apple does it.
 

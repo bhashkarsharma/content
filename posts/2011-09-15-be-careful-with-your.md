@@ -2,7 +2,8 @@
 title: Be careful with your /hosts file
 canonical: http://rockerhome.wordpress.com/2011/09/15/be-careful-with-your/
 date: 2011/09/15 11:14:35
-tags: technology, unix
+categories: Technology
+tags: unix
 ---
 Never remove the mapping that points localhost to 127.0.0.1 in the /hosts file (location can vary depending on the OS).<span class="more"></span>
 

@@ -3,7 +3,7 @@ title: The Fault In Our Stars
 date: 2017/06/27 18:30:00
 image: "/assets/images/posts/astrology.jpg"
 comments: true
-tags: superstition, logic, astrology
+tags: superstition logic astrology
 ---
 Astrology.<span class="more"></span> The belief that somehow a handful, out of the infinite existing cosmic bodies have an individual impact on each of our lives in a different and predictable manner, depending on the date, time and place of our births.
 

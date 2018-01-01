@@ -2,7 +2,8 @@
 title: Duplicate a MySQL database
 canonical: http://rockerhome.wordpress.com/2011/10/19/duplicate-a-mysql-database/
 date: 2011/10/19 12:03:37
-tags: technology, mysql
+categories: Technology
+tags: mysql
 ---
 I was testing something out, and realized that I needed to clone my database to run some tests while still being able to keep the data intact. And that's when I started searching for a way to do it, and turns out there's a one-liner to do the same :) <span class="more"></span>
 

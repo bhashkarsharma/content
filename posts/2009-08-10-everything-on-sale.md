@@ -2,7 +2,8 @@
 title: Everything on sale!
 canonical: http://blog.bhashkar.me/2009/08/everything-on-sale.html
 date: "2009-08-10 04:14:00"
-categories: [strategy, product, lure, advertisement, consumerism, business]
+categories: Business
+tags: strategy product advertisement consumerism business
 ---
 It makes me wonder- have the companies started producing low-grade products in ridiculous quantities that they HAVE TO sell at low prices to get rid of them; or have they been trying to lure the class of people who could not previously afford their products and make them addicted; or its all just a farce, and the GREATER GOOD is worked out by affixing a tag displaying the price at least four times the actual (and I mean selling) price of the product, and providing a 40% DISCOUNT on it. Get robbed. Everyone's invited!<span class="more"></span>
 

@@ -2,6 +2,7 @@
 title: Thanksgiving
 date: 2016/11/25 07:30:00
 comments: false
+categories: Reflections
 tags: friendship
 ---
 Life is continuous – or at least has been ever since it first started (landed?) on this planet. You wouldn't be reading these words if that weren't the case.<span class="more"></span>

@@ -2,7 +2,8 @@
 title: Just Because
 canonical: http://blog.bhashkar.me/2013/11/just-because.html
 date: "2013-11-23 22:07:00"
-categories: [people, life, love]
+categories: Reflections
+tags: people life love
 ---
 I refuse to give up. I refuse to let the world turn me into a cynic. I refuse to stoop to the level of the people who see fellow humans as things to be used and discarded.
 

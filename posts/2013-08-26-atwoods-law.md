@@ -2,7 +2,8 @@
 title: Atwood's Law
 canonical: http://rockerhome.wordpress.com/2013/08/26/atwoods-law/
 date: 2013/08/26 08:29:59
-tags: technology, javascript
+categories: Technology
+tags: javascript
 ---
 > [Any application that _can_ be written in JavaScript, _will_ eventually be written in JavaScript. ](http://www.codinghorror.com/blog/2007/07/the-principle-of-least-power.html)
 

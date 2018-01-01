@@ -2,7 +2,8 @@
 title: This keeps getting hotter
 canonical: http://rockerhome.wordpress.com/2012/09/27/mobile-mobile-mobile/
 date: 2012/09/27 21:22:22
-tags: technology, mobile
+categories: Technology
+tags: mobile
 ---
 I'm not pointing fingers, but iOS 6 is stripping off Google search referrer data.<span class="more"></span> No, doesn't seem to be an OS bug; Bing data is preserved ([read more here](http://searchengineland.com/ios-6-removes-all-google-search-referer-data-134560)).
 

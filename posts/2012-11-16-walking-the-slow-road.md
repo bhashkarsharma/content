@@ -2,7 +2,8 @@
 title: Walking the slow road
 canonical: http://rockerhome.wordpress.com/2012/11/16/walking-the-slow-road/
 date: 2012/11/16 12:43:03
-tags: technology, slow-web
+categories: Technology
+tags: slow-web
 ---
 I took my 'annual' break at Deewali this year, and decided to stay completely out-of-touch from the internet. Here are my experiences.<span class="more"></span> Some of them might be super-obvious: 
 

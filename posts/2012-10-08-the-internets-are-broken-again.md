@@ -2,7 +2,8 @@
 title: The plight of shortlinks
 canonical: http://rockerhome.wordpress.com/2012/10/08/the-internets-are-broken-again/
 date: 2012/10/08 10:40:14
-tags: technology, twitter
+categories: Technology
+tags: twitter
 ---
 This morning, it turns out, t.co, twitter's own URL shortner links were not working. The browser responded with 'Lookup failed', while wget said this:<span class="more"></span> 
 

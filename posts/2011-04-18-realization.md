@@ -2,6 +2,7 @@
 title: Realization
 canonical: http://blog.bhashkar.me/2011/04/realization.html
 date: "2011-04-18 17:30:00"
+categories: Reflections
 ---
 Squiggly. Funny word. But that's beyond the point.
 

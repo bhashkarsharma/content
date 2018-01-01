@@ -3,7 +3,8 @@ title: Angular Routes And Optional Params
 date: 2017/12/27 18:30:00
 image: "/assets/images/posts/angular.jpg"
 comments: true
-tags: technology, angular
+categories: Technology
+tags: angular routes matrix
 ---
 <em>NOTE: The method mentioned below is only needed in case your parameters are likely to change after routing to a component.
 Otherwise, just use `router.snapshot.paramMap`.</em>

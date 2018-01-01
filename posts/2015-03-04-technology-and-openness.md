@@ -4,6 +4,8 @@ date: 2015/03/04 13:40:00
 image: "/assets/images/posts/net-neutrality.png"
 image-credit: "http://www.savetheinternet.com/net-neutrality"
 comments: true
+categories: Technology
+tags: open-source web 
 ---
 
 The idealist in me wants to see the walled gardens of technology fail and fall.<span class="more"></span> The technologist in me is happy that at least people are getting a quality service ~~for free~~ in exchange for their data.

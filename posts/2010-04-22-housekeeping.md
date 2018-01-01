@@ -2,6 +2,7 @@
 title: Housekeeping
 canonical: http://blog.bhashkar.me/2010/04/housekeeping.html
 date: "2010-04-22 09:59:00"
+categories: Update
 ---
 Hey fellas! That's rite... We've moved. Now we're found chiefly on our homeblog... presence at other locations may or maynot be relevant. It'd be good if you check beforehand.. :P<span class="more"></span>
 After going thru an export-import cycle; I finally managed to get my blog posts back to home... Then the tweaking of look-and-feel began and, I guess this is the outcome... for now!!

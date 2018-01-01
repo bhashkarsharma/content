@@ -2,6 +2,7 @@
 title: The Game Is On
 date: 2014/07/05 21:40:00
 comments: true
+categories: Art
 ---
 
 This one took a lot more time and effort than the previous one: <span class="more"></span>

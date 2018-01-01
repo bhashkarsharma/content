@@ -2,7 +2,8 @@
 title: Being in Twenties
 canonical: http://blog.bhashkar.me/2010/07/being-in-twenties.html
 date: "2010-07-28 10:35:00"
-categories: [heart, life, love, twenties]
+categories: Reflections
+tags: heart life love twenties
 ---
 Here I would like to make it clear upfront that this is not a piece written by me. A friend mailed it to me and I found it worth reading, and so considered the best to share it with the World. The copy-paste begins:<span class="more"></span>
 

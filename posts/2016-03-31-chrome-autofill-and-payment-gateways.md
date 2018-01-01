@@ -2,6 +2,8 @@
 title: Chrome Autofill and Payment Gateways
 date: 2016/03/31 09:00:00
 image: "/assets/images/posts/credit-card.jpg"
+categories: Technology
+tags: google chrome autofill payment
 comments: true
 ---
 Google Chrome has an autofill option which comes in very handy while entering personal details like email, name, address etc.<span class="more"></span> Lately, they have added a Credit Card option that allows you to autofill your card details.

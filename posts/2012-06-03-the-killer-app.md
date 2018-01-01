@@ -2,7 +2,8 @@
 title: The Killer App
 canonical: http://rockerhome.wordpress.com/2012/06/03/the-killer-app/
 date: 2012/06/03 10:12:05
-tags: technology, apps
+categories: Technology
+tags: apps
 ---
 Every once in a while, I used to come across this phrase (although the frequency has now diminished and gave way to _enter-successful-product_-killer in recent times). Since 2007 there have been at least 20 so-called iPhone killers, and every few days we get to see a new self-proclaimed Facebook/Instagram/Google killer.<span class="more"></span>
 

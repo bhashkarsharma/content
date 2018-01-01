@@ -2,7 +2,8 @@
 title: Writing from Pune
 canonical: http://blog.bhashkar.me/2010/08/writing-from-pune.html
 date: "2010-08-13 12:27:00"
-categories: [emotions, social]
+categories: Update
+tags: emotions social
 ---
 Yesterday finally I got to do what I had been meaning to do for quite a while now - visit Pune. :P
 

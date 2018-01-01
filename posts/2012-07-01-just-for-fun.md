@@ -2,7 +2,8 @@
 title: Just For Fun
 canonical: http://rockerhome.wordpress.com/2012/07/01/just-for-fun/
 date: 2012/07/01 15:30:51
-tags: technology, python
+categories: Technology
+tags: python
 ---
 Just the other day... 
 

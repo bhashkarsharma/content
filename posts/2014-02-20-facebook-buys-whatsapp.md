@@ -2,7 +2,8 @@
 title: Facebook buys Whatsapp
 canonical: http://rockerhome.wordpress.com/2014/02/20/facebook-buys-whatsapp/
 date: 2014/02/20 14:43:29
-tags: technology, facebook
+categories: Technology
+tags: facebook whatsapp
 ---
 $19 billion. This is the amount of money Facebook is paying (stocks + cash + RSUs) to acquire WhatsApp. I've not been able to process it yet. Don't get me wrong. I'm not questioning the worth of WhatsApp.<span class="more"></span>It is a great messaging app which provides a simple, no-frills and reliable way of communicating with people, sharing images, videos, music etc. I have tried using a couple of other messaging apps and every time came back to WhatsApp. That is how good it is. And ~500 million customers without any marketing is a huge deal that speaks volumes for the product.
 

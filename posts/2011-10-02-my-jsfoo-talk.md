@@ -2,7 +2,8 @@
 title: My jsFoo talk
 canonical: http://rockerhome.wordpress.com/2011/10/02/my-jsfoo-talk/
 date: 2011/10/02 16:35:52
-tags: technology, event, jsfoo
+categories: Technology
+tags: event jsfoo
 ---
 So I got the opportunity to talk at [jsFoo 2011](http://jsfoo.hasgeek.com) organized by [HasGeek](http://twitter.com/hasgeek) which also happened to be my first talk since college.<span class="more"></span> Following is my presentation uploaded to SlideShare:
 

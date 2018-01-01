@@ -2,7 +2,8 @@
 title: Stunning Fail
 canonical: http://rockerhome.wordpress.com/2014/03/01/stunning-fail/
 date: 2014/03/01 12:27:43
-tags: technology, future
+categories: Technology
+tags: future tesla musk
 ---
 
 On reading [this article](http://www.bloombergview.com/articles/2014-02-28/tesla-is-a-car-not-a-revolution), many things come to mind; and not just how it screams "sensationalism" and "nay-sayer" out loud.<span class="more"></span>

@@ -2,7 +2,8 @@
 title: The end of privacy as we know it
 canonical: http://rockerhome.wordpress.com/2013/08/07/the-end-of-privacy-as-we-know-it/
 date: 2013/08/07 16:20:43
-tags: technology, privacy, internet
+categories: Technology
+tags: privacy internet
 ---
 I remember Eric Schmidt saying something to the effect of "if you don't want something to be publicly known, don't post it on the internet". But as we have seen with the deeper proliferation of 'social media' on our lives, we can't stop but share every moment of our lives online.<span class="more"></span> There are specialized channels for us to share different types of content. I'm not here to rave about how the definition of words 'share', 'like' and 'social' has been <del>perverted</del> changed over the last few years.
 

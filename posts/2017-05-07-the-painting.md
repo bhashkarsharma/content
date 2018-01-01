@@ -2,7 +2,8 @@
 title: The Painting
 date: 2017/05/07 18:30:00
 comments: true
-tags: love, life
+categories: Life
+tags: story
 ---
 He was on the floor, whimpering like a madman, jittery as an addict on high-octane cocaine, trying to arrange the pieces of shattered glass with his splinter-ridden hands.<span class="more"></span> Blood still flowing from his fingers, he was trying hard to complete the picture. Unfortunately the picture was unrecognizable. Some pieces had gone missing, others had been flipped when they fell, others yet had been broken into pieces so tiny they couldn't be put back together. And now, many were soaked in blood.
 

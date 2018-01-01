@@ -2,7 +2,7 @@
 title: Small Joys
 canonical: http://blog.bhashkar.me/2013/10/small-joys.html
 date: "2013-10-11 19:30:00"
-categories: [social, happiness, life]
+tags: social happiness life
 ---
 
 Most of us are living life in the fast lane. A life which is more of a race than a journey. We are competing with each other to get ahead and reach somewhere. But where?

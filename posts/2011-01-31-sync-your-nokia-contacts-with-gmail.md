@@ -2,7 +2,8 @@
 title: Sync your Nokia contacts with GMail contacts
 canonical: http://rockerhome.wordpress.com/2011/01/31/sync-your-nokia-contacts-with-gmail/
 date: 2011/01/31 13:43:20
-tags: technology, nokia, sync, google
+categories: Technology
+tags: technology nokia sync google
 ---
 ![Nokia GMail sync](http://rockerhome.files.wordpress.com/2011/01/gmail-app-mobile.jpg?w=300)
 

@@ -2,7 +2,7 @@
 title: The Importance Of Asking Questions
 canonical: http://blog.bhashkar.me/2013/09/the-importance-of-asking-questions.html
 date: "2013-09-21 07:30:00"
-categories: [postADay, science, questions]
+tags: postADay science questions
 ---
 We humans are the dominant species on this planet (or so we like to believe; I wouldn't get into the microbial side of the story because this post is not about that).
 

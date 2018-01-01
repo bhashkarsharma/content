@@ -2,7 +2,8 @@
 title: VirtualBox Guest Additions on Ubuntu Server 12.04
 canonical: http://rockerhome.wordpress.com/2012/09/15/virtualbox-guest-additions-on-ubuntu-server-12-04/
 date: 2012/09/15 23:38:19
-tags: technology, unix, ubuntu, virtualbox
+categories: Technology
+tags: unix ubuntu virtualbox
 ---
 While trying to set up the development environment for my site, I was having problems making VirtualBox Guest Additions let me share files with the host OS. The production env is Ubuntu Server 12.04 running on AWS EC2 so it was obvious I had to use a VM on the MacBook to ensure my dev env is in sync with the production.<span class="more"></span>
 

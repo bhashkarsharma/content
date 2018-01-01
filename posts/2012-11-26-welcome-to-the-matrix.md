@@ -2,7 +2,8 @@
 title: Welcome to The Matrix
 canonical: http://rockerhome.wordpress.com/2012/11/26/welcome-to-the-matrix/
 date: 2012/11/26 14:18:05
-tags: technology, future
+categories: Technology
+tags: future
 ---
 We have entered the second generation of 'machine generation' with 3D printers. Till now we used to have machines assembling machines from parts. For example, a robot in a car factory building a car.<span class="more"></span> [UPDATE: link added] 
 

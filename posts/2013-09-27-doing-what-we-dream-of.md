@@ -2,7 +2,7 @@
 title: Doing What We Dream Of
 canonical: http://blog.bhashkar.me/2013/09/doing-what-we-dream-of.html
 date: "2013-09-27 03:00:00"
-categories: [postADay, work, steve-jobs, life, love, business]
+tags: postADay work steve-jobs life love business
 ---
 As kids, we all dream of being someone when we grow up. It might be hard to believe, and maybe it was because of all the books I had around me when I was growing up; I wanted to write. That's it. Spend time with books, read and write.<span class="more"></span>
 

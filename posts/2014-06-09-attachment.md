@@ -3,6 +3,7 @@ title: Attachment
 date: 2014/06/09 21:10:40
 image: "/assets/images/posts/bubble.jpg"
 comments: true
+tags: emotions
 ---
 
 Someone said some rude things to me, which made me unhappy.

@@ -2,7 +2,8 @@
 title: Advertising
 canonical: http://rockerhome.wordpress.com/2012/06/03/advertising/
 date: 2012/06/03 11:01:12
-tags: technology, advertising, internet
+categories: Business
+tags: advertising internet
 ---
 Advertising is one of primary sources of revenue for many companies, and of primary expenditure for many others.
 

@@ -2,7 +2,8 @@
 title: Quarter of a Century as an Earthling
 canonical: http://blog.bhashkar.me/2012/09/quarter-of-century-as-earthling.html
 date: "2012-09-04 17:35:00"
-categories: [life, experience, love, twenties]
+categories: Life
+tags: experience love twenties
 ---
 Having completed 25 years on this planet, I suddenly feel old :P and no longer a teenager (looks like it took me a while to get out of that one).<span class="more"></span>
 

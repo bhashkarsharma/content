@@ -2,7 +2,8 @@
 title: Found a bug in the iPad!
 canonical: http://rockerhome.wordpress.com/2011/08/24/found-a-bug-in-the-ipad/
 date: 2011/08/24 17:34:47
-tags: technology, ipad
+categories: Technology
+tags: ipad
 ---
 The Photos app hanged when I was moving photos around, zooming in and out. Has something to do with multi-touch. <span class="more"></span>
 

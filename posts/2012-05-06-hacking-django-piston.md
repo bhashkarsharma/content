@@ -2,7 +2,8 @@
 title: Hacking Django-Piston
 canonical: http://rockerhome.wordpress.com/2012/05/06/hacking-django-piston/
 date: 2012/05/06 11:29:59
-tags: technology, python, django, piston
+categories: Technology
+tags: python django piston
 ---
 At [MobStac](http://mobstac.com), we are working on building REST API support for the system. After evaluating various REST API framworks for [django](http://djangoproject.com/), I chose to go with [django-piston](https://bitbucket.org/jespern/django-piston/).<span class="more"></span>
 

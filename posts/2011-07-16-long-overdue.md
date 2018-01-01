@@ -2,6 +2,7 @@
 title: Long overdue
 canonical: http://blog.bhashkar.me/2011/07/long-overdue.html
 date: "2011-07-16 12:23:00"
+categories: Update
 ---
 Tickle my ears and call me lazy, because that's exactly what I've been the past couple of days. Not that I was not feeling guilty about not writing anything despite (trust me, I'm not lying) having 20 things in my head everyday that I could write about.<span class="more"></span> What was stopping me? Well, that's the mystery and even I don't think I have an answer to that one. Maybe you should try reading the first line again :P
 

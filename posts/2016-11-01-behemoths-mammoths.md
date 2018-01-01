@@ -2,7 +2,8 @@
 title: Behemoths & Mammoths
 date: 2016/11/01 07:30:00
 comments: true
-tags: technology, culture
+categories: Business
+tags: culture
 ---
 So far, I have seen how small companies work up close<span class="more"></span>, and the more time I spend in the industry, the more respect I have for the behemoths who are able to continuously innovate and move forward while keeping their old stuff running and improving it.
 

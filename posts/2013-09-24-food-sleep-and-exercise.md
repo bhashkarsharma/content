@@ -2,7 +2,7 @@
 title: Food, Sleep and Exercise
 canonical: http://blog.bhashkar.me/2013/09/food-sleep-and-exercise.html
 date: "2013-09-24 14:30:00"
-categories: [postADay, life, health]
+tags: postADay life health
 ---
 >Health is wealth.
 

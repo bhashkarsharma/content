@@ -2,7 +2,8 @@
 title: Heartbreaks
 canonical: http://blog.bhashkar.me/2012/05/heartbreaks.html
 date: "2012-05-06 12:45:00"
-categories: [heart, emotions, friendship, life, experience, love]
+categories: Life
+tags: heart emotions friendship life experience love
 ---
 _[Disclaimer: Those who came looking for a teenage girl's drama can go jump off their roofs now]_
 

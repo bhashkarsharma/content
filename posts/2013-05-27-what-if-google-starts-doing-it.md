@@ -2,7 +2,8 @@
 title: What if Google starts doing it?
 canonical: http://rockerhome.wordpress.com/2013/05/27/what-if-google-starts-doing-it/
 date: 2013/05/27 06:59:35
-tags: technology, google
+categories: Technology
+tags: google
 ---
 This has been a question I have come across many times, and must say, is not a pointless one. I have been asked this by my friends many times I discuss an idea with them, and Google told me that [many VCs do it](http://whatifgoogledoesit.com/) too.<span class="more"></span>
 

@@ -2,7 +2,8 @@
 title: I'm offended!
 canonical: http://blog.bhashkar.me/2012/08/im-offended.html
 date: "2012-08-25 04:37:00"
-categories: [censorship, religion, politics]
+categories: Politics
+tags: censorship religion politics
 ---
 Taking offense is our national sport and pastime. Like weddings. And cricket. [As a side note, thanks to [Sushil, Yogeshwar, Saina and Mary Kom](http://en.wikipedia.org/wiki/India_at_the_2012_Summer_Olympics) for reminding us that there are other sports in the World]. Someone should suggest adding the event of 'taking offense' to the Olympic games. It could entail 7 people sitting around a table trying to prove everyone else an ostrich with their head stuck in cemented ground. I'm sure we have a prize reserved in that. Unless [someone](http://www.care2.com/causes/somali-comedian-shot-dead-after-making-islamist-jokes.html) beats us to it.<span class="more"></span>
 

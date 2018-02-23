@@ -7,7 +7,7 @@ tags: superstition logic astrology
 ---
 Astrology.<span class="more"></span> The belief that somehow a handful, out of the infinite existing cosmic bodies have an individual impact on each of our lives in a different and predictable manner, depending on the date, time and place of our births.
 
-I studied a bit of Hindu Astrology when I was in school, Linda Goodman at a later point, and various related books at different points in time, and have spent a lot of hours poring over the combination of numbers that apparently define our lives. I am extremely curious about things, especially the ones that so many people believe in; and I try to understand them as much as possible. After not being able to find any scientifically provable basis in Astrology, I didn't care much for it. Until recently, when people's belief in this cultural delusion ended up with me losing the person I deeply loved.
+I studied a bit of Hindu Astrology when I was in school, Linda Goodman at a later point, and various related books at different points in time, and have spent a lot of hours poring over the combination of numbers that apparently define our lives. I am extremely curious about things, especially the ones that so many people believe in; and I try to understand them as much as I can. After not being able to find any scientifically provable basis in Astrology, I didn't care much for it. Until recently, when people's belief in this cultural delusion ended up with me losing the person I deeply loved.
 
 Here is my attempt to deconstruct this belief system. Although the burden of proof is on the ones making the claim of the efficacy of their system, we clearly live in a backwards world. See [Russell's teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot).
 
@@ -158,8 +158,6 @@ Here are some videos debunking astrology:
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/AbfNHh-Uka0?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 <br>
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/Vf6Z_YiXTSo?ecver=1" frameborder="0" allowfullscreen></iframe></div>
-<br>
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/4AyTbLqSBfI?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 <br>
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/r70HsEvNRck?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 <br>

@@ -1,6 +1,7 @@
 ---
 title: Christmas
-date: 2014/12/25 12:40:00
+path: "/2014/12/25/christmas/"
+date: "2014-12-25T12:40:00Z"
 comments: true
 categories: Art
 ---

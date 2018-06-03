@@ -1,7 +1,8 @@
 ---
 title: Facebook buys Whatsapp
+path: "/2014/02/20/facebook-buys-whatsapp/"
 canonical: http://rockerhome.wordpress.com/2014/02/20/facebook-buys-whatsapp/
-date: 2014/02/20 14:43:29
+date: "2014-02-20T14:43:29Z"
 categories: Technology
 tags: facebook whatsapp
 ---

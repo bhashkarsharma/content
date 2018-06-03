@@ -1,7 +1,8 @@
 ---
 title: One Post A Day
+path: "/2013/09/20/one-post-day/"
 canonical: http://blog.bhashkar.me/2013/09/one-post-day.html
-date: "2013-09-20 02:49:00"
+date: "2013-09-20T02:49:00Z"
 categories: Update
 tags: postADay
 ---

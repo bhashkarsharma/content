@@ -1,6 +1,7 @@
 ---
 title: The Game Is On
-date: 2014/07/05 21:40:00
+path: "/2014/07/05/the-game-is-on/"
+date: "2014-07-05T21:40:00Z"
 comments: true
 categories: Art
 ---

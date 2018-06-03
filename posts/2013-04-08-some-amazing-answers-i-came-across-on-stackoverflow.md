@@ -1,7 +1,8 @@
 ---
 title: Some amazing answers I came across on StackOverflow
+path: "/2013/04/08/some-amazing-answers-i-came-across-on-stackoverflow/"
 canonical: http://rockerhome.wordpress.com/2013/04/08/some-amazing-answers-i-came-across-on-stackoverflow/
-date: 2013/04/08 20:12:29
+date: "2013-04-08T20:12:29Z"
 categories: Technology
 tags: python
 ---

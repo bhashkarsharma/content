@@ -1,7 +1,8 @@
 ---
 title: Canvas width and height
+path: "/2014/03/06/canvas-width-and-height/"
 canonical: http://rockerhome.wordpress.com/2014/03/06/canvas-width-and-height/
-date: 2014/03/06 15:30:57
+date: "2014-03-06T15:30:57Z"
 categories: Technology
 tags: html css
 ---

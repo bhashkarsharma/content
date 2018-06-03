@@ -1,7 +1,8 @@
 ---
 title: The Killer App
+path: "/2012/06/03/the-killer-app/"
 canonical: http://rockerhome.wordpress.com/2012/06/03/the-killer-app/
-date: 2012/06/03 10:12:05
+date: "2012-06-03T10:12:05Z"
 categories: Technology
 tags: apps
 ---

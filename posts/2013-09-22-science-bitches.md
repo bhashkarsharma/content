@@ -1,7 +1,8 @@
 ---
 title: Science, bitches!
+path: "/2013/09/22/science-bitches/"
 canonical: http://blog.bhashkar.me/2013/09/science-bitches.html
-date: "2013-09-22 05:19:00"
+date: "2013-09-22T05:19:00Z"
 tags: postADay religion science
 ---
 Science is about more than asking questions. [Asking questions](/2013/09/21/the-importance-of-asking-questions.html) most certainly is step 0. The next step is about finding out the unknown, or to build the inexistent. As I like to think, science has 2 feet: discovery and invention. While discoveries keep the clock ticking and help us solve tough problems, inventions make life easier. Using it's powers of reasoning and questioning, it has improved the quality of life tremendously over the years.<span class="more"></span>

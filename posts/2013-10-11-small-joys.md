@@ -1,7 +1,8 @@
 ---
 title: Small Joys
+path: "/2013/10/11/small-joys/"
 canonical: http://blog.bhashkar.me/2013/10/small-joys.html
-date: "2013-10-11 19:30:00"
+date: "2013-10-11T19:30:00Z"
 tags: social happiness life
 ---
 

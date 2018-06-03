@@ -1,6 +1,7 @@
 ---
 title: Thanksgiving
-date: 2016/11/25 07:30:00
+path: "/2016/11/25/thanksgiving/"
+date: "2016-11-25T07:30:00Z"
 comments: false
 categories: Reflections
 tags: friendship

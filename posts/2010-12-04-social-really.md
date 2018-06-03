@@ -1,7 +1,8 @@
 ---
 title: Social? Really?
+path: "/2010/12/04/social-really/"
 canonical: http://blog.bhashkar.me/2010/12/social-really.html
-date: "2010-12-04 16:05:00"
+date: "2010-12-04T16:05:00Z"
 tags: emotions social friendship networking technology
 ---
 *[Disclaimer: This article is in no way written with any prejudices towards social networking and internet socializing. Its purpose is to point out that virtual 'social' world is shadowing the real 'social' world. That doesn't sound amusing to me, especially going forward.]*<span class="more"></span>

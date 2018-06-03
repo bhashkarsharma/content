@@ -1,7 +1,8 @@
 ---
 title: If you want to go for an MBA...
+path: "/2011/10/12/if-you-want-to-go-for-mba/"
 canonical: http://blog.bhashkar.me/2011/10/if-you-want-to-go-for-mba.html
-date: "2011-10-12 03:47:00"
+date: "2011-10-12T03:47:00Z"
 tags: heart steve-jobs life love
 ---
 

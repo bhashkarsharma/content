@@ -1,7 +1,8 @@
 ---
 title: Happy Republic Day
+path: "/2011/01/25/happy-republic-day/"
 canonical: http://blog.bhashkar.me/2011/01/happy-republic-day.html
-date: "2011-01-25 17:12:00"
+date: "2011-01-25T17:12:00Z"
 ---
 ...and along comes the season of patriotism. It is that time of the year when we all forward "Happy Republic Day" and "proud to be an Indian" kind of text messages and emails. The time when we tag each other in "patriotic" images.<span class="more"></span> And come 27th Jan, we return to being ourselves till the 15th August, where this process is repeated. Wait, is that not what it was all about?
 

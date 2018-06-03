@@ -1,7 +1,8 @@
 ---
 title: Another weekend
+path: "/2011/08/07/another-weekend/"
 canonical: http://blog.bhashkar.me/2011/08/another-weekend.html
-date: "2011-08-07 10:38:00"
+date: "2011-08-07T10:38:00Z"
 categories: Reflections
 ---
 Haha.. gotcha! Misleading title indeed. :D

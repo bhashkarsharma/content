@@ -1,7 +1,8 @@
 ---
 title: Writing from Pune
+path: "/2010/08/13/writing-from-pune/"
 canonical: http://blog.bhashkar.me/2010/08/writing-from-pune.html
-date: "2010-08-13 12:27:00"
+date: "2010-08-13T12:27:00Z"
 categories: Update
 tags: emotions social
 ---

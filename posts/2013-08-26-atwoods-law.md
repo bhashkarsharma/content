@@ -1,7 +1,8 @@
 ---
 title: Atwood's Law
+path: "/2013/08/26/atwoods-law/"
 canonical: http://rockerhome.wordpress.com/2013/08/26/atwoods-law/
-date: 2013/08/26 08:29:59
+date: "2013-08-26T08:29:59Z"
 categories: Technology
 tags: javascript
 ---

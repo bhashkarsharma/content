@@ -1,7 +1,8 @@
 ---
 title: Hacking Django-Piston
+path: "/2012/05/06/hacking-django-piston/"
 canonical: http://rockerhome.wordpress.com/2012/05/06/hacking-django-piston/
-date: 2012/05/06 11:29:59
+date: "2012-05-06T11:29:59Z"
 categories: Technology
 tags: python django piston
 ---

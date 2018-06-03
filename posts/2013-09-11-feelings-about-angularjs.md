@@ -1,7 +1,8 @@
 ---
 title: Feelings about AngularJS
+path: "/2013/09/11/feelings-about-angularjs/"
 canonical: http://rockerhome.wordpress.com/2013/09/11/feelings-about-angularjs/
-date: 2013/09/11 16:14:20
+date: "2013-09-11T16:14:20Z"
 categories: Technology
 tags: javascript
 ---

@@ -1,7 +1,8 @@
 ---
 title: The NSA has programs that collect data on US Supreme Court Justices and elected officials, and they secretly provide it to Israel
+path: "/2013/09/12/the-nsa-has-programs-that-collect-data-on-us-supreme-court-justices-and-elected-officials-and-they-secretly-provide-it-to-israel/"
 canonical: http://rockerhome.wordpress.com/2013/09/12/the-nsa-has-programs-that-collect-data-on-us-supreme-court-justices-and-elected-officials-and-they-secretly-provide-it-to-israel/
-date: 2013/09/12 11:11:54
+date: "2013-09-12T11:11:54Z"
 categories: Technology
 tags: security nsa
 ---

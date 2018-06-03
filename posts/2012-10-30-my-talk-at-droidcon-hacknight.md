@@ -1,7 +1,8 @@
 ---
 title: My talk at Droidcon Hacknight
+path: "/2012/10/30/my-talk-at-droidcon-hacknight/"
 canonical: http://rockerhome.wordpress.com/2012/10/30/my-talk-at-droidcon-hacknight/
-date: 2012/10/30 11:17:44
+date: "2012-10-30T11:17:44Z"
 categories: Technology
 tags: droidcon event
 ---

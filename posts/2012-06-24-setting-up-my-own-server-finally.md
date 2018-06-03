@@ -1,7 +1,8 @@
 ---
 title: Setting up my own server, finally!
+path: "/2012/06/24/setting-up-my-own-server-finally/"
 canonical: http://rockerhome.wordpress.com/2012/06/24/setting-up-my-own-server-finally/
-date: 2012/06/24 13:55:45
+date: "2012-06-24T13:55:45Z"
 categories: Technology
 tags: aws unix python django
 ---

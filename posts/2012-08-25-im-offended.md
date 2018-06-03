@@ -1,7 +1,8 @@
 ---
 title: I'm offended!
+path: "/2012/08/25/im-offended/"
 canonical: http://blog.bhashkar.me/2012/08/im-offended.html
-date: "2012-08-25 04:37:00"
+date: "2012-08-25T04:37:00Z"
 categories: Politics
 tags: censorship religion politics
 ---

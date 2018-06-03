@@ -1,7 +1,8 @@
 ---
 title: Welcome to The Matrix
+path: "/2012/11/26/welcome-to-the-matrix/"
 canonical: http://rockerhome.wordpress.com/2012/11/26/welcome-to-the-matrix/
-date: 2012/11/26 14:18:05
+date: "2012-11-26T14:18:05Z"
 categories: Technology
 tags: future
 ---

@@ -1,7 +1,8 @@
 ---
 title: VirtualBox Guest Additions on Ubuntu Server 12.04
+path: "/2012/09/15/virtualbox-guest-additions-on-ubuntu-server-12-04/"
 canonical: http://rockerhome.wordpress.com/2012/09/15/virtualbox-guest-additions-on-ubuntu-server-12-04/
-date: 2012/09/15 23:38:19
+date: "2012-09-15T23:38:19Z"
 categories: Technology
 tags: unix ubuntu virtualbox
 ---

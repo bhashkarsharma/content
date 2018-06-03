@@ -1,7 +1,8 @@
 ---
 title: Enough Arrangements!
+path: "/2013/11/24/enough-arrangements/"
 canonical: http://blog.bhashkar.me/2013/11/enough-arrangements.html
-date: "2013-11-24 08:13:00"
+date: "2013-11-24T08:13:00Z"
 tags: society arranged-marriage religion love
 ---
 

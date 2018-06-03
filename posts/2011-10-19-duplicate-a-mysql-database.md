@@ -1,7 +1,8 @@
 ---
 title: Duplicate a MySQL database
+path: "/2011/10/19/duplicate-a-mysql-database/"
 canonical: http://rockerhome.wordpress.com/2011/10/19/duplicate-a-mysql-database/
-date: 2011/10/19 12:03:37
+date: "2011-10-19T12:03:37Z"
 categories: Technology
 tags: mysql
 ---

@@ -1,6 +1,7 @@
 ---
 title: Perversion
-date: 2014/05/13 09:10:40
+path: "/2014/05/13/perversion/"
+date: "2014-05-13T09:10:40Z"
 image: "/assets/images/posts/people-devices.jpg"
 image-credit: "https://secure.flickr.com/photos/waagsociety/"
 comments: true

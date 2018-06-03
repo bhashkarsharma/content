@@ -1,7 +1,8 @@
 ---
 title: The plight of shortlinks
+path: "/2012/10/08/the-internets-are-broken-again/"
 canonical: http://rockerhome.wordpress.com/2012/10/08/the-internets-are-broken-again/
-date: 2012/10/08 10:40:14
+date: "2012-10-08T10:40:14Z"
 categories: Technology
 tags: twitter
 ---

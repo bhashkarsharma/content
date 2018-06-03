@@ -1,6 +1,7 @@
 ---
 title: At The Airport
-date: 2014/11/04 15:10:00
+path: "/2014/11/04/at-the-airport/"
+date: "2014-11-04T15:10:00Z"
 image: "/assets/images/posts/airplane.jpg"
 image-credit: "https://www.flickr.com/photos/125167502@N02/"
 comments: true

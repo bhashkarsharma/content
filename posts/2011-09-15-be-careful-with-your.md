@@ -1,7 +1,8 @@
 ---
 title: Be careful with your /hosts file
+path: "/2011/09/15/be-careful-with-your/"
 canonical: http://rockerhome.wordpress.com/2011/09/15/be-careful-with-your/
-date: 2011/09/15 11:14:35
+date: "2011-09-15T11:14:35Z"
 categories: Technology
 tags: unix
 ---

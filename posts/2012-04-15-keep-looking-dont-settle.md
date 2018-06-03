@@ -1,7 +1,8 @@
 ---
 title: Keep Looking. Don't Settle.
+path: "/2012/04/15/keep-looking-dont-settle/"
 canonical: http://blog.bhashkar.me/2012/04/keep-looking-dont-settle.html
-date: "2012-04-15 14:31:00"
+date: "2012-04-15T14:31:00Z"
 categories: Reflections
 tags: steve-jobs life love
 ---

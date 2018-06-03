@@ -1,7 +1,8 @@
 ---
 title: Housekeeping
+path: "/2010/04/22/housekeeping/"
 canonical: http://blog.bhashkar.me/2010/04/housekeeping.html
-date: "2010-04-22 09:59:00"
+date: "2010-04-22T09:59:00Z"
 categories: Update
 ---
 Hey fellas! That's rite... We've moved. Now we're found chiefly on our homeblog... presence at other locations may or maynot be relevant. It'd be good if you check beforehand.. :P<span class="more"></span>

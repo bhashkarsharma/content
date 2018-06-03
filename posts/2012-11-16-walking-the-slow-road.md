@@ -1,7 +1,8 @@
 ---
 title: Walking the slow road
+path: "/2012/11/16/walking-the-slow-road/"
 canonical: http://rockerhome.wordpress.com/2012/11/16/walking-the-slow-road/
-date: 2012/11/16 12:43:03
+date: "2012-11-16T12:43:03Z"
 categories: Technology
 tags: slow-web
 ---

@@ -1,7 +1,8 @@
 ---
 title: The Best Medicine
+path: "/2013/09/23/the-best-medicine/"
 canonical: http://blog.bhashkar.me/2013/09/the-best-medicine.html
-date: "2013-09-23 18:00:00"
+date: "2013-09-23T18:00:00Z"
 tags: postADay laughter humor
 ---
 Sense of humor has been linked to intelligence; and I'm not surprised. I don't recall seeing a deer cracking up in the woods; but then I don't frequent the woods. Bears scare me.<span class="more"></span>

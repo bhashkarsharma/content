@@ -1,6 +1,7 @@
 ---
 title: The Painting
-date: 2017/05/07 18:30:00
+path: "/2017/05/07/the-painting/"
+date: "2017-05-07T18:30:00Z"
 comments: true
 categories: Life
 tags: story

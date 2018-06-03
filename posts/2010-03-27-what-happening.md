@@ -1,7 +1,8 @@
 ---
 title: What's happening
+path: "/2010/03/27/what-happening/"
 canonical: http://blog.bhashkar.me/2010/03/what-happening.html
-date: "2010-03-27 14:51:00"
+date: "2010-03-27T14:51:00Z"
 categories: Update
 ---
 Wow, people... I really apologize for my regular procrastination in updating the blog... but this time, all I can promise is that I will try to be back as soon as possible, without giving you any false hopes on when that will be...<span class="more"></span>

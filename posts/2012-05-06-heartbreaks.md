@@ -1,7 +1,8 @@
 ---
 title: Heartbreaks
+path: "/2012/05/06/heartbreaks/"
 canonical: http://blog.bhashkar.me/2012/05/heartbreaks.html
-date: "2012-05-06 12:45:00"
+date: "2012-05-06T12:45:00Z"
 categories: Life
 tags: heart emotions friendship life experience love
 ---

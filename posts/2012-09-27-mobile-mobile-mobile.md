@@ -1,7 +1,8 @@
 ---
 title: This keeps getting hotter
+path: "/2012/09/27/mobile-mobile-mobile/"
 canonical: http://rockerhome.wordpress.com/2012/09/27/mobile-mobile-mobile/
-date: 2012/09/27 21:22:22
+date: "2012-09-27T21:22:22Z"
 categories: Technology
 tags: mobile
 ---

@@ -1,6 +1,7 @@
 ---
 title: Going Static
-date: 2014/04/10 12:30:00
+path: "/2014/04/10/going-static/"
+date: "2014-04-10T12:30:00Z"
 comments: true
 categories: Technology
 ---

@@ -1,7 +1,8 @@
 ---
 title: Advertising
+path: "/2012/06/03/advertising/"
 canonical: http://rockerhome.wordpress.com/2012/06/03/advertising/
-date: 2012/06/03 11:01:12
+date: "2012-06-03T11:01:12Z"
 categories: Business
 tags: advertising internet
 ---

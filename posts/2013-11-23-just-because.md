@@ -1,7 +1,8 @@
 ---
 title: Just Because
+path: "/2013/11/23/just-because/"
 canonical: http://blog.bhashkar.me/2013/11/just-because.html
-date: "2013-11-23 22:07:00"
+date: "2013-11-23T22:07:00Z"
 categories: Reflections
 tags: people life love
 ---

@@ -1,7 +1,8 @@
 ---
 title: Found a bug in the iPad!
+path: "/2011/08/24/found-a-bug-in-the-ipad/"
 canonical: http://rockerhome.wordpress.com/2011/08/24/found-a-bug-in-the-ipad/
-date: 2011/08/24 17:34:47
+date: "2011-08-24T17:34:47Z"
 categories: Technology
 tags: ipad
 ---

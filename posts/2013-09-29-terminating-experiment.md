@@ -1,7 +1,8 @@
 ---
 title: Terminating the experiment
+path: "/2013/09/29/terminating-experiment/"
 canonical: http://blog.bhashkar.me/2013/09/terminating-experiment.html
-date: "2013-09-29 06:30:00"
+date: "2013-09-29T06:30:00Z"
 tags: postADay
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Angular Routes And Optional Params
-date: 2017/12/27 18:30:00
+path: "/2017/12/27/angular-routes-optional-params/"
+date: "2017-12-27T18:30:00Z"
 image: "/assets/images/posts/angular.jpg"
 comments: true
 categories: Technology

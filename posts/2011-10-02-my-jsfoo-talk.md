@@ -1,7 +1,8 @@
 ---
 title: My jsFoo talk
+path: "/2011/10/02/my-jsfoo-talk/"
 canonical: http://rockerhome.wordpress.com/2011/10/02/my-jsfoo-talk/
-date: 2011/10/02 16:35:52
+date: "2011-10-02T16:35:52Z"
 categories: Technology
 tags: event jsfoo
 ---

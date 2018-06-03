@@ -1,6 +1,7 @@
 ---
 title: Chrome Autofill and Payment Gateways
-date: 2016/03/31 09:00:00
+path: "/2016/03/31/chrome-autofill-and-payment-gateways/"
+date: "2016-03-31T09:00:00Z"
 image: "/assets/images/posts/credit-card.jpg"
 categories: Technology
 tags: google chrome autofill payment

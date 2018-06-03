@@ -1,7 +1,8 @@
 ---
 title: What are the odds! :D
+path: "/2011/12/01/what-are-the-odds-d/"
 canonical: http://rockerhome.wordpress.com/2011/12/01/what-are-the-odds-d/
-date: 2011/12/01 12:11:26
+date: "2011-12-01T12:11:26Z"
 categories: Technology
 tags: unix
 ---

@@ -1,7 +1,8 @@
 ---
 title: Just For Fun
+path: "/2012/07/01/just-for-fun/"
 canonical: http://rockerhome.wordpress.com/2012/07/01/just-for-fun/
-date: 2012/07/01 15:30:51
+date: "2012-07-01T15:30:51Z"
 categories: Technology
 tags: python
 ---

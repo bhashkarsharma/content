@@ -1,7 +1,8 @@
 ---
 title: Realization
+path: "/2011/04/18/realization/"
 canonical: http://blog.bhashkar.me/2011/04/realization.html
-date: "2011-04-18 17:30:00"
+date: "2011-04-18T17:30:00Z"
 categories: Reflections
 ---
 Squiggly. Funny word. But that's beyond the point.

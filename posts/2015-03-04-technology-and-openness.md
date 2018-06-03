@@ -1,6 +1,7 @@
 ---
 title: Technology and Openness
-date: 2015/03/04 13:40:00
+path: "/2015/03/04/technology-and-openness/"
+date: "2015-03-04T13:40:00Z"
 image: "/assets/images/posts/net-neutrality.png"
 image-credit: "http://www.savetheinternet.com/net-neutrality"
 comments: true

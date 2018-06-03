@@ -1,7 +1,8 @@
 ---
 title: What if Google starts doing it?
+path: "/2013/05/27/what-if-google-starts-doing-it/"
 canonical: http://rockerhome.wordpress.com/2013/05/27/what-if-google-starts-doing-it/
-date: 2013/05/27 06:59:35
+date: "2013-05-27T06:59:35Z"
 categories: Technology
 tags: google
 ---

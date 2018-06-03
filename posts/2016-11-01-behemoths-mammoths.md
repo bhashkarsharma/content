@@ -1,6 +1,7 @@
 ---
 title: Behemoths & Mammoths
-date: 2016/11/01 07:30:00
+path: "/2016/11/01/behemoths-mammoths/"
+date: "2016-11-01T07:30:00Z"
 comments: true
 categories: Business
 tags: culture

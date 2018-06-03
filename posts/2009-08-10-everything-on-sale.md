@@ -1,7 +1,8 @@
 ---
 title: Everything on sale!
+path: "/2009/08/10/everything-on-sale/"
 canonical: http://blog.bhashkar.me/2009/08/everything-on-sale.html
-date: "2009-08-10 04:14:00"
+date: "2009-08-10T04:14:00Z"
 categories: Business
 tags: strategy product advertisement consumerism business
 ---

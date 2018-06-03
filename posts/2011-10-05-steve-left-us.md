@@ -1,7 +1,8 @@
 ---
 title: Steve left us!
+path: "/2011/10/05/steve-left-us/"
 canonical: http://rockerhome.wordpress.com/2011/10/05/steve-left-us/
-date: 2011/10/05 14:02:07
+date: "2011-10-05T14:02:07Z"
 categories: Technology
 tags: steve-jobs
 ---

@@ -1,7 +1,8 @@
 ---
 title: The end of privacy as we know it
+path: "/2013/08/07/the-end-of-privacy-as-we-know-it/"
 canonical: http://rockerhome.wordpress.com/2013/08/07/the-end-of-privacy-as-we-know-it/
-date: 2013/08/07 16:20:43
+date: "2013-08-07T16:20:43Z"
 categories: Technology
 tags: privacy internet
 ---

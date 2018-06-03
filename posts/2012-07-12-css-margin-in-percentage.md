@@ -1,7 +1,8 @@
 ---
 title: CSS Margin In Percentage
+path: "/2012/07/12/css-margin-in-percentage/"
 canonical: http://rockerhome.wordpress.com/2012/07/12/css-margin-in-percentage/
-date: 2012/07/12 19:29:30
+date: "2012-07-12T19:29:30Z"
 categories: Technology
 tags: css
 ---

@@ -1,7 +1,8 @@
 ---
 title: Stunning Fail
+path: "/2014/03/01/stunning-fail/"
 canonical: http://rockerhome.wordpress.com/2014/03/01/stunning-fail/
-date: 2014/03/01 12:27:43
+date: "2014-03-01T12:27:43Z"
 categories: Technology
 tags: future tesla musk
 ---

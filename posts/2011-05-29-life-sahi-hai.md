@@ -1,7 +1,8 @@
 ---
 title: Life Sahi Hai!
+path: "/2011/05/29/life-sahi-hai/"
 canonical: http://blog.bhashkar.me/2011/05/life-sahi-hai.html
-date: "2011-05-29 11:48:00"
+date: "2011-05-29T11:48:00Z"
 ---
 Yup, the title happens to be same as (and not coincidentally so) [this song](http://www.youtube.com/watch?v=JUur2Gjyrog) from 'Pyaar Ka Punchnama'. I think this is one movie which has shown romance in a new and fresh (not to mention kinda realistic in today's world) light.<span class="more"></span>
 

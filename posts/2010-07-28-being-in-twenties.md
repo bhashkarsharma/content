@@ -1,7 +1,8 @@
 ---
 title: Being in Twenties
+path: "/2010/07/28/being-in-twenties/"
 canonical: http://blog.bhashkar.me/2010/07/being-in-twenties.html
-date: "2010-07-28 10:35:00"
+date: "2010-07-28T10:35:00Z"
 categories: Reflections
 tags: heart life love twenties
 ---

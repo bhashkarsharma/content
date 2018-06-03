@@ -1,7 +1,8 @@
 ---
 title: Turning of the tables
+path: "/2012/05/28/turning-of-the-tables/"
 canonical: http://rockerhome.wordpress.com/2012/05/28/turning-of-the-tables/
-date: 2012/05/28 10:44:06
+date: "2012-05-28T10:44:06Z"
 categories: Technology
 tags: apple
 ---

@@ -1,7 +1,8 @@
 ---
 title: Quarter of a Century as an Earthling
+path: "/2012/09/04/quarter-of-century-as-earthling/"
 canonical: http://blog.bhashkar.me/2012/09/quarter-of-century-as-earthling.html
-date: "2012-09-04 17:35:00"
+date: "2012-09-04T17:35:00Z"
 categories: Life
 tags: experience love twenties
 ---

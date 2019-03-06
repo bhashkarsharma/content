@@ -5,6 +5,7 @@ canonical: http://blog.bhashkar.me/2013/09/science-bitches.html
 date: "2013-09-22T05:19:00Z"
 tags: postADay religion science
 ---
+
 Science is about more than asking questions. [Asking questions](/2013/09/21/the-importance-of-asking-questions.html) most certainly is step 0. The next step is about finding out the unknown, or to build the inexistent. As I like to think, science has 2 feet: discovery and invention. While discoveries keep the clock ticking and help us solve tough problems, inventions make life easier. Using it's powers of reasoning and questioning, it has improved the quality of life tremendously over the years.<span class="more"></span>
 
 Science is also about refusing to accept "God's will" and covering unchartered territories.
@@ -15,7 +16,7 @@ None of this would have been possible had we taken the general religious attitud
 
 I was brought up religious, and I always used to wonder: "Why does the omnipresent omnipotent God let kids die of diseases when he could have prevented them?" Essentially, I too had this doubt, and I'm certain I'm not alone:
 
-![](http://i.imgur.com/Pxov2oe.jpg)
+![](./imgs/sam-harris-god.png)
 
 "There's always good hidden in God's plan" was another idea I was fed as a child. This broke down when I noticed all the wars, atrocities and pain in the world happening to innocents. I mean, seriously, a 5-year old child is raped and dies. Is this God's plan? If so, I'm not sure I can have faith in that God anymore.
 
@@ -25,4 +26,4 @@ Unless we ask questions, we wouldn't try to see beyond the craziness that the es
 
 Check out this beautiful comic by clicking on the image below:
 
-<a href="http://zenpencils.com/comic/52-phil-plait-welcome-to-science/" rel="nofollow" target="_blank">![Welcome to science](http://1.bp.blogspot.com/-k337SBycQfs/Uj6Ah-sNgkI/AAAAAAAAE9k/YqEFQ6N0ij0/s640/2012-06-05-philplait.jpg)
+<a href="http://zenpencils.com/comic/52-phil-plait-welcome-to-science/" rel="nofollow" target="_blank">![Welcome to science](./imgs/sun-shines.jpg)

@@ -1,21 +1,22 @@
 ---
 title: Chrome Autofill and Payment Gateways
-path: "/2016/03/31/chrome-autofill-and-payment-gateways/"
-date: "2016-03-31T09:00:00Z"
-image: "/assets/images/posts/credit-card.jpg"
+path: '/2016/03/31/chrome-autofill-and-payment-gateways/'
+date: '2016-03-31T09:00:00Z'
+image: './imgs/credit-card.jpg'
 categories: Technology
 tags: google chrome autofill payment
 comments: true
 ---
+
 Google Chrome has an autofill option which comes in very handy while entering personal details like email, name, address etc.<span class="more"></span> Lately, they have added a Credit Card option that allows you to autofill your card details.
 
 You can find it in `Settings > Show advanced settings > Passwords and Forms > Manage Autofill settings > Credit cards`. Or you can go to `chrome://settings/autofill`.
 
-![](/assets/images/posts/card-autofill.jpg)
+![](./imgs/card-autofill.jpg)
 
 When you add a card for the first time, a reversible temporary transaction is generated on the card to ensure its validity. The card also gets added to your Google account, and shows up on your Google Payments page.
 
-![](/assets/images/posts/card-wallet.jpg)
+![](./imgs/card-wallet.jpg)
 
 I've been using this feature for a while and it is pretty useful. All you need to do is enter your CVV number when prompted by the browser.
 
@@ -32,6 +33,7 @@ In Javascript, month is zero-indexed, which means January would be 0 and Decembe
 I am assuming that the `value` in the month `<select>` field was 4 - the index for May.
 
 Something like this:
+
 ```
 	<option value="4">05</option>
 ```

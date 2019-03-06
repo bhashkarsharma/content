@@ -6,9 +6,8 @@ date: "2012-06-03T10:12:05Z"
 categories: Technology
 tags: apps
 ---
-Every once in a while, I used to come across this phrase (although the frequency has now diminished and gave way to _enter-successful-product_-killer in recent times). Since 2007 there have been at least 20 so-called iPhone killers, and every few days we get to see a new self-proclaimed Facebook/Instagram/Google killer.<span class="more"></span>
 
-![What is The New Big Thing?](http://rockerhome.files.wordpress.com/2012/06/appstore-logo.png)
+Every once in a while, I used to come across this phrase (although the frequency has now diminished and gave way to *enter-successful-product*-killer in recent times). Since 2007 there have been at least 20 so-called iPhone killers, and every few days we get to see a new self-proclaimed Facebook/Instagram/Google killer.<span class="more"></span>
 
 Talking specifically about the Internet, I personally think that there is one Killer app: The Browser. It has existed since the text-only web days and moved into the primarily-mobile age of today without so much as flinching. Undeniably, a ton of native apps keep coming everyday which might provide a better experience than the browser (thanks to HTML5, that gap is closing fast) but most of them are 'easy come, easy go'.
 

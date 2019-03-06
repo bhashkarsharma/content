@@ -1,11 +1,12 @@
 ---
 title: The Fault In Our Stars
-path: "/2017/06/27/fault-our-stars/"
-date: "2017-06-27T18:30:00Z"
-image: "/assets/images/posts/astrology.jpg"
+path: '/2017/06/27/fault-our-stars/'
+date: '2017-06-27T18:30:00Z'
+image: './imgs/astrology.jpg'
 comments: true
 tags: superstition logic astrology
 ---
+
 Astrology.<span class="more"></span> The belief that somehow a handful, out of the infinite existing cosmic bodies have an individual impact on each of our lives in a different and predictable manner, depending on the date, time and place of our births.
 
 I studied a bit of Hindu Astrology when I was in school, Linda Goodman at a later point, and various related books at different points in time, and have spent a lot of hours poring over the combination of numbers that apparently define our lives. I am extremely curious about things, especially the ones that so many people believe in; and I try to understand them as much as I can. After not being able to find any scientifically provable basis in Astrology, I didn't care much for it. Until recently, when people's belief in this cultural delusion ended up with me losing the person I deeply loved.
@@ -18,13 +19,13 @@ Here is my attempt to deconstruct this belief system. Although the burden of pro
 
 Astrology came to existence at a point in the history of human civilisation when we had negligible understanding of the way the world works. Floods, droughts, tornadoes, eclipses, diseases, loss of crops and everything else that went wrong was attributed to some external entity. The name and designation of that entity entirely depended on the culture and the belief system of the people in that time. They were often gods, demons, fairies, angels or a similar group.
 
->Among Indo-European peoples, astrology has been dated to the 3rd millennium BC, with roots in calendrical systems used to predict seasonal shifts and to interpret celestial cycles as signs of divine communications. (*[Wikipedia](https://en.wikipedia.org/wiki/History_of_astrology)*)
+> Among Indo-European peoples, astrology has been dated to the 3rd millennium BC, with roots in calendrical systems used to predict seasonal shifts and to interpret celestial cycles as signs of divine communications. [Wikipedia](https://en.wikipedia.org/wiki/History_of_astrology)
 
 It started off as something used to predict season and nature based on what people saw in the skies, since that was mystical and unintelligible to them; and turned into what it is today – a major farce affecting the lives of people, often in damaging ways; while making money for the charlatans. If you believe in astrology, I implore you to go to the [Wikipedia page](https://en.wikipedia.org/wiki/History_of_astrology), expand the list of astrological signs, and the history of astrology, and then ask yourself the question: Do you believe in all of them? If not, why do you believe selectively in one or two? If the answer is something other than "because people before/around me do so", I would like to have a discussion with you. Otherwise you just proved my point.
 
 Let's get it out of the way:
 
->Astrology has nothing to do with God, even though both might be sold at the same shops nowadays.
+> Astrology has nothing to do with God, even though both might be sold at the same shops nowadays.
 
 ### Hindu Astrology
 
@@ -74,7 +75,7 @@ I have not seen a fortune-teller or pundit richer than an industrialist. Why do 
 
 I'm not saying that all of these people are charlatans. It is possible that they themselves truly believe that they are doing the right thing, or preserving an art/knowledge form. Unfortunately that doesn't reduce the damage they cause to the lives of people who buy into it.
 
-*I haven't even brought up the concepts of law of averages, correlation-causation, or the factor of chance or probability, or various logical fallacies involved.*
+_I haven't even brought up the concepts of law of averages, correlation-causation, or the factor of chance or probability, or various logical fallacies involved._
 
 Since astrology can do a great job of predicting our lives, it should certainly be able to predict major events, accidents, disasters, natural or man-made calamities, and even death. Yet I have not known any astrologer to be able to do that. You might want to argue that it isn't the "science" that is faulty, but the limited abilities of the practitioners, but then why make any life decision based on the advice of these pundits who clearly don't have enough knowledge? I would happily wait for someone who can prove their abilities, before taking their advice.
 
@@ -88,7 +89,7 @@ How did astrology become a predictor of employment when the concept of employmen
 
 I wish people asked (themselves and others) more questions. Don't believe things just because others do. As a rule of thumb, always have a good enough reason to back up your beliefs with evidence. If there isn't enough reason, you should drop that belief. Critical Thinking should be a mandatory part of school curriculum.
 
->The simplest logical argument against astrology is 'twins'.
+> The simplest logical argument against astrology is 'twins'.
 
 Here are some experiments you might want to try:
 
@@ -97,20 +98,20 @@ Here are some experiments you might want to try:
 
 ### The Math
 
-Let's take a look at the mathematical aspect of this so-called "science" which claims to heavily depend on math.  
+Let's take a look at the mathematical aspect of this so-called "science" which claims to heavily depend on math.
 
 There are a total of 12 boxes (houses) in a typical horoscope chart, in which 9 planets are placed. However, Rahu and Ketu are always placed opposite each other, which makes total 8 moving entities.  
 Number of combinations: 12^8 = 429,981,696  
 Pair combination of Rahu-Ketu = 2  
-Total number of combinations = 429,981,696 * 2 = 859,963,392  
+Total number of combinations = 429,981,696 \* 2 = 859,963,392  
 Current population of the world: 7,500,000,000+ ([source](http://www.worldometers.info/world-population/))  
-Dividing the two, we get: 8.7+  
+Dividing the two, we get: 8.7+
 
 If Astrology indeed uniquely defines, and predicts everything about your life; on average, there are at least 7 other 'you's on this planet (excluding yourself) right now. And this number will grow as the world population does.
 
 Also remember that we have included all chart combinations (including all planets being placed in the same house, which I have never seen). The real number of combinations would be much smaller.
 
-*Fun fact*: More than 83 million people were born last year ([source](http://www.worldometers.info/world-population/world-population-by-year/)). Which means that every decade, at least one person is born with your exact horoscope, including the possibility that they are born in a place where they might succumb to infant mortality. I bet your horoscope doesn't feel as unique anymore.
+_Fun fact_: More than 83 million people were born last year ([source](http://www.worldometers.info/world-population/world-population-by-year/)). Which means that every decade, at least one person is born with your exact horoscope, including the possibility that they are born in a place where they might succumb to infant mortality. I bet your horoscope doesn't feel as unique anymore.
 
 **Debunked: Uniqueness.**
 
@@ -148,7 +149,7 @@ We have landed on the moon, and our robots are driving around on Mars; yet a big
 
 Here is my challenge:
 
-**I will happily part with 20% of the amount if an astrologer, or fortune-teller, or psychic can accurately tell me the exact amount of money in my bank accounts, to 2 decimal places, combined, in that moment; without applying any *worldly* means; just by using the same methods they claim to use in their daily practice.**
+**I will happily part with 20% of the amount if an astrologer, or fortune-teller, or psychic can accurately tell me the exact amount of money in my bank accounts, to 2 decimal places, combined, in that moment; without applying any _worldly_ means; just by using the same methods they claim to use in their daily practice.**
 
 Here are some videos debunking astrology:
 
@@ -163,4 +164,4 @@ Here are some videos debunking astrology:
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/r70HsEvNRck?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 <br>
 
-*I'm open to any factual and provable inputs that support or negate my stance on this topic. Non-answers like "it has been this way for ages" will not be entertained.*
+_I'm open to any factual and provable inputs that support or negate my stance on this topic. Non-answers like "it has been this way for ages" will not be entertained._

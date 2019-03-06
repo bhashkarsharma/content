@@ -1,12 +1,12 @@
 ---
 title: Technology and Openness
-path: "/2015/03/04/technology-and-openness/"
-date: "2015-03-04T13:40:00Z"
-image: "/assets/images/posts/net-neutrality.png"
-image-credit: "http://www.savetheinternet.com/net-neutrality"
+path: '/2015/03/04/technology-and-openness/'
+date: '2015-03-04T13:40:00Z'
+image: './imgs/net-neutrality.png'
+image-credit: 'http://www.savetheinternet.com/net-neutrality'
 comments: true
 categories: Technology
-tags: open-source web 
+tags: open-source web
 ---
 
 The idealist in me wants to see the walled gardens of technology fail and fall.<span class="more"></span> The technologist in me is happy that at least people are getting a quality service ~~for free~~ in exchange for their data.
@@ -15,7 +15,7 @@ For example, I would personally prefer Jabber to Hangouts or Facebook Messenger,
 
 As a user I prefer the ease of dropping the files in a [Dropbox](http://dropbox.com) folder and not have to worry about syncing; or to be able to leave an offline message to my friends on one of the proprietary services and be assured that they will see it when they come online.
 
-There has to be a way to bring seamless UX and open technologies together, and whoever figures it out will revolutionize software in a big way. [Ubuntu](http://www.ubuntu.com/) is a great step in the direction, but we have a long way to go. I like BitTorrent initiatives towards launching user-friendly decentralized applications such as [Sync](http://www.getsync.com/) and [Bleep](http://labs.bittorrent.com/bleep/); the odds of them being used are a hundred times more than command-line tools, or self-hosted Jabber installations. 
+There has to be a way to bring seamless UX and open technologies together, and whoever figures it out will revolutionize software in a big way. [Ubuntu](http://www.ubuntu.com/) is a great step in the direction, but we have a long way to go. I like BitTorrent initiatives towards launching user-friendly decentralized applications such as [Sync](http://www.getsync.com/) and [Bleep](http://labs.bittorrent.com/bleep/); the odds of them being used are a hundred times more than command-line tools, or self-hosted Jabber installations.
 
 I care about and love technology because it allows us to share our ideas with each other in a tangible form. The Internet has become successful because it makes it possible to reach people across the globe just by writing some lines of code and running it on a computer in my garage, or even in Amazon or Google's garages. The power of technology is in making things easier for people, and enabling people to do things they previously couldn't. Empowering people is the reason technology has become mainstream despite 99% of people not understanding how it works. And it is okay to an extent.
 

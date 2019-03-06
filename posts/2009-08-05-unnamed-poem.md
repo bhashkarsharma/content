@@ -4,6 +4,7 @@ path: "/2009/08/05/unnamed-poem/"
 canonical: http://blog.bhashkar.me/2009/08/unnamed-poem.html
 date: "2009-08-05T13:10:00Z"
 ---
+
 Hi Fellas! Following is something that I came up with during the time my precious YearBook was under construction. Although I couldn't make it very complete or appealing, yet thought it best to post it here, so it can be read by you:<span class="more"></span>
 
 This world around me,<br />

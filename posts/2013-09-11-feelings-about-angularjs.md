@@ -6,6 +6,7 @@ date: "2013-09-11T16:14:20Z"
 categories: Technology
 tags: javascript
 ---
-![Feelings about AngularJS](http://rockerhome.files.wordpress.com/2013/09/feelings_about_angularjs_over_time.png)
+
+![Feelings about AngularJS](./imgs/feelings_about_angularjs.png)
 
 Funny depiction of what you go through while learning Angular.

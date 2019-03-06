@@ -1,12 +1,13 @@
 ---
 title: Perversion
-path: "/2014/05/13/perversion/"
-date: "2014-05-13T09:10:40Z"
-image: "/assets/images/posts/people-devices.jpg"
-image-credit: "https://secure.flickr.com/photos/waagsociety/"
+path: '/2014/05/13/perversion/'
+date: '2014-05-13T09:10:40Z'
+image: './imgs/people-devices.jpg'
+image-credit: 'https://secure.flickr.com/photos/waagsociety/'
 comments: true
 tags: etymology culture
 ---
+
 I came across this beautiful video recently:<span class="more"></span>
 
 <div class="video-box">

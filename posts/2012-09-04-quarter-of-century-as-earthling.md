@@ -6,14 +6,14 @@ date: "2012-09-04T17:35:00Z"
 categories: Life
 tags: experience love twenties
 ---
+
 Having completed 25 years on this planet, I suddenly feel old :P and no longer a teenager (looks like it took me a while to get out of that one).<span class="more"></span>
 
 Wanted to share a couple of things I have learnt (forgive me if something doesn't fit, I'm still learning).
 
 Here goes, in no particular order. _[Warning: Slur of clichés coming up]_
 
-![](http://i.imgur.com/t6UCFOI.jpg)
-
+![](./imgs/inevitability.jpg)
 
 - Love yourself
 - Happiness is internal, and you are in full control of your own

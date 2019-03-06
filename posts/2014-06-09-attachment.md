@@ -1,8 +1,8 @@
 ---
 title: Attachment
-path: "/2014/06/09/attachment/"
-date: "2014-06-09T21:10:40Z"
-image: "/assets/images/posts/bubble.jpg"
+path: '/2014/06/09/attachment/'
+date: '2014-06-09T21:10:40Z'
+image: './imgs/bubble.jpg'
 comments: true
 tags: emotions
 ---

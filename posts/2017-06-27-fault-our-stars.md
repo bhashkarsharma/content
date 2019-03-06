@@ -1,8 +1,8 @@
 ---
 title: The Fault In Our Stars
-path: '/2017/06/27/fault-our-stars/'
-date: '2017-06-27T18:30:00Z'
-image: './imgs/astrology.jpg'
+path: "/2017/06/27/fault-our-stars/"
+date: "2017-06-27T18:30:00Z"
+image: "./imgs/astrology.jpg"
 comments: true
 tags: superstition logic astrology
 ---
@@ -158,10 +158,5 @@ Here are some videos debunking astrology:
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/dlMiKrwCRQ0?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 <br>
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/AbfNHh-Uka0?ecver=1" frameborder="0" allowfullscreen></iframe></div>
-<br>
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/Vf6Z_YiXTSo?ecver=1" frameborder="0" allowfullscreen></iframe></div>
-<br>
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/r70HsEvNRck?ecver=1" frameborder="0" allowfullscreen></iframe></div>
-<br>
 
 _I'm open to any factual and provable inputs that support or negate my stance on this topic. Non-answers like "it has been this way for ages" will not be entertained._

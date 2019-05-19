@@ -1,2 +1,3 @@
-# posts
-Collection of my blog posts.
+# Content
+
+Collection of my blog content.

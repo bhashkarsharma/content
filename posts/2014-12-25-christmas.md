@@ -8,6 +8,6 @@ categories: Art
 
 Trying a simple painting today: <span class="more"></span>
 
-![](./imgs/christmas.jpg)
+![](/imgs/christmas.jpg)
 
 Merry Christmas, everyone!

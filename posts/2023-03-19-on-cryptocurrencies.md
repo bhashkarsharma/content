@@ -1,8 +1,8 @@
 ---
 title: On Crypto
-path: '/2023/03/19/on-cryptocurrencies/'
-date: '2023-03-19T18:00:00Z'
-image: './imgs/crypto.jpg'
+path: "/2023/03/19/on-cryptocurrencies/"
+date: "2023-03-19T18:00:00Z"
+image: "/imgs/crypto.jpg"
 comments: true
 categories: Technology
 tags: angular routes matrix

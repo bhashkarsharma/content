@@ -1,9 +1,9 @@
 ---
 title: Technology and Openness
-path: '/2015/03/04/technology-and-openness/'
-date: '2015-03-04T13:40:00Z'
-image: './imgs/net-neutrality.png'
-image-credit: 'http://www.savetheinternet.com/net-neutrality'
+path: "/2015/03/04/technology-and-openness/"
+date: "2015-03-04T13:40:00Z"
+image: "/imgs/net-neutrality.png"
+image-credit: "http://www.savetheinternet.com/net-neutrality"
 comments: true
 categories: Technology
 tags: open-source web

@@ -11,4 +11,4 @@ The Photos app hanged when I was moving photos around, zooming in and out. Has s
 
 Googled it and found lots of people cribbing about the same on the Apple Forum :P Following is the screenshot after which I wasn't able to do anything in the app. Had to close it and reboot the iPad. Did someone just scream 'Windows'? :P !
 
-![Taken when the Photo app hanged on the iPad](./imgs/ipad.png)
+![Taken when the Photo app hanged on the iPad](/imgs/ipad.png)

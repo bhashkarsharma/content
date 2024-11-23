@@ -7,7 +7,7 @@ categories: Technology
 tags: technology nokia sync google
 ---
 
-![Nokia GMail sync](./imgs/gmail-app-mobile.jpg)
+![Nokia GMail sync](/imgs/gmail-app-mobile.jpg)
 
 Hi fellas. So I have this Nokia S60 phone (5233) which, sadly, does not have support for Mail for Exchange ActiveSync. And that is the reason I started looking for alternatives to backup and sync my contacts and calendar.<span class="more"></span> An option that can serve the backup purpose is [Nokia Ovi](http://ovi.com/) but that is limited to a backup and restore functionality and does not support any syncing with other services AFAIK, which didn't help my purpose. So I started searching for other alternatives. Now, I don't know whether any paid solutions work (assuming they exist) but yours truly was not looking for those. After running some queries on Google, I landed on some interesting solutions. And the one that worked for me, I'm sharing here:
 

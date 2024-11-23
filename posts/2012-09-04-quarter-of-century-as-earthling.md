@@ -13,7 +13,7 @@ Wanted to share a couple of things I have learnt (forgive me if something doesn'
 
 Here goes, in no particular order. _[Warning: Slur of clichés coming up]_
 
-![](./imgs/inevitability.jpg)
+![](/imgs/inevitability.jpg)
 
 - Love yourself
 - Happiness is internal, and you are in full control of your own

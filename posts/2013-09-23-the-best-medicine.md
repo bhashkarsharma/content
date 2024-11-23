@@ -20,7 +20,7 @@ I didn't think much of the quote when I first came across it, but after listenin
 
 > Religion has convinced people that there’s an invisible man…living in the sky, who watches everything you do every minute of every day. And the invisible man has a list of ten specific things he doesn’t want you to do. And if you do any of these things, he will send you to a special place, of burning and fire and smoke and torture and anguish for you to live forever, and suffer and burn and scream until the end of time.&nbsp;<em>But he loves you</em>. He loves you and he needs money.
 
-![](./imgs/hammers.jpg)
+![](/imgs/hammers.jpg)
 
 Humor is all the more important in the ever-busy lifestyles that have become the reality of the day. Nobody today has got time to kick their heels and chill in the middle of the week, unless you've already 'made it'. With our lives running like clockwork and rising stress levels, humor is the much-needed medicine that the old proverb talks about.
 

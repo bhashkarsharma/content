@@ -13,7 +13,7 @@ We can find reasons to get offended in space in the midst of the vacuum, or at t
 
 It is because of this zeal of excelling at our national sport that we are constantly looking for things to get agitated about. The whole situation makes me feel as if we're in a classroom full of juvenile kids pulling each others' legs, or ears. Just that, we are ready to go ahead and kill people and burn buses for the same reasons now.
 
-![](./imgs/offended.jpg)
+![](/imgs/offended.jpg)
 
 With every passing day, my belief is reinforced that sense of humor and common sense are both super powers. Bigotry is not only counter productive, it is also a bit old-school, maybe off by a few centuries. I feel that we are creating more boundaries, instead of removing them as should be the result of globalization. My this belief might have been triggered due to information travelling faster than ever before, and us getting to know a lot more about what is happening in the world (including the places that didn't exist in our information map) than we did in the past. Although some people just don't want to come out of the 6th Century, or so it seems. I wouldn't say anything more, for the [fear of offending](http://www.hindustantimes.com/India-news/WestBengal/Professor-arrested-for-poking-fun-at-Mamata/Article1-839847.aspx) them.
 

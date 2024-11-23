@@ -7,6 +7,6 @@ categories: Technology
 tags: unix
 ---
 
-![I swear its real!](./imgs/odds.png)
+![I swear its real!](/imgs/odds.png)
 
 While working on something I just thought of checking the system date (oh right, I was checking the NGINX logs) and very very coincidentally I landed on that. Thought it would be cool to upload it here ;)

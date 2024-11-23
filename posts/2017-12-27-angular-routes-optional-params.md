@@ -1,8 +1,8 @@
 ---
 title: Angular Routes And Optional Params
-path: '/2017/12/27/angular-routes-optional-params/'
-date: '2017-12-27T18:30:00Z'
-image: './imgs/angular.jpg'
+path: "/2017/12/27/angular-routes-optional-params/"
+date: "2017-12-27T18:30:00Z"
+image: "/imgs/angular.jpg"
 comments: true
 categories: Technology
 tags: angular routes matrix
@@ -18,7 +18,7 @@ Route Params:
 ```js
 this.router.params.subscribe((params) => {
   // do something with route params
-})
+});
 ```
 
 Query Params:
@@ -26,7 +26,7 @@ Query Params:
 ```js
 this.router.queryParams.subscribe((params) => {
   // do something with query params
-})
+});
 ```
 
 In a scenario where you have the same component across pages, the component is not re-initialized. Which means that you might not receive a callback if you navigate to the same page, or a different page with different URL parameters, pointing to the same component. The router will not send you a callback if you navigate to the same URL either. Which means, you can't wait for both `Observable`s to resolve, because there is no guarantee of both resolving.
@@ -42,7 +42,7 @@ ParamMaps have been introduced in Angular 4.0, and they support Matrix Params. T
 ```js
 this.router.paramMap.subscribe((params) => {
   // do something with optional and required
-})
+});
 ```
 
 Not just that, the [ParamMap](https://angular.io/api/router/ParamMap) class provides nice getter methods to make it easier to access single, or multiple values. **At the time of writing this post, Router.paramMap does NOT support GET params.**

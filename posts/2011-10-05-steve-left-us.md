@@ -7,4 +7,4 @@ categories: Technology
 tags: steve-jobs
 ---
 
-Its a sad sad day for the World :'-( I'll try to write something once I gain composure. ![The iCon](./imgs/steve-apple-home.png)
+Its a sad sad day for the World :'-( I'll try to write something once I gain composure. ![The iCon](/imgs/steve-apple-home.png)

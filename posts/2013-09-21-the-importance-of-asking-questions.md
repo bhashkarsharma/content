@@ -30,6 +30,6 @@ The habit of asking questions should be encouraged in children. Being naturally 
 
 But once we grow up, we start taking things to be the way they are, and just go with the flow. This is where the stagnation sets in.
 
-![](./imgs/asking-questions.jpg)
+![](/imgs/asking-questions.jpg)
 
 Never stop questioning. That is the only way we can learn and grow, as individuals, and as a society.

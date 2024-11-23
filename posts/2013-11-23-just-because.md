@@ -15,7 +15,7 @@ Since always I have had faith in humanity; a quality which is hard to describe, 
 
 Then there's another side to it. After all, we are all just animals. Living creatures, who grow up in our surroundings, interact with others in the habitat we share and make decisions based on the experiences we have. Everyone we meet is fighting a battle. As sentient beings, it is not merely about survival. As <a href="https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs" target="_blank">Maslow described</a>, it is about achieving various things in different stage of life.
 
-![Maslow's Hierarchy of Needs](./imgs/maslow-hierachy-of-needs.jpg)
+![Maslow's Hierarchy of Needs](/imgs/maslow-hierachy-of-needs.jpg)
 
 Sometimes I think I probably should become more of what some people call, sigh, 'practical'. As a rational and logical being I think I am practical. But this usage of the word is different. It is used to describe using someone for your purpose and moving on. My heart refuses to become that person.
 

@@ -28,7 +28,7 @@ We have become zombies, screen junkies seeking attention from our online network
 
 Here's an amazing comic (click on the image to read):
 
-<a href="http://zenpencils.com/comic/129-marc-maron-the-social-media-generation/" target="_blank">![Social media generation](./imgs/social-media.jpg)</a>
+<a href="http://zenpencils.com/comic/129-marc-maron-the-social-media-generation/" target="_blank">![Social media generation](/imgs/social-media.jpg)</a>
 
 Life is a series of moments, each following the other. If we postpone our happiness till a wish is fulfilled, we are limiting our happiness. Given the unpredictability of life, does it not make sense to be happy and grateful for what we have? Don't get me wrong. I'm not talking about compromising and limiting ourselves. I'm talking about making the best of what we have.
 

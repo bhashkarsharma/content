@@ -9,7 +9,7 @@ tags: apple
 
 I landed on this [article](http://john.jubjubs.net/2007/06/14/a-pictures-worth-100m-users/) and it sounded pretty amusing to me. Why? Because when it was written, Apple was planning its dominance on the Web, as it seems. But here's the point: [something inexistent](http://google.com/chrome) 4 years ago has the largest market share in the World today. It would not have been possible if it wasn't for open standards and continuous push towards creating something better and, of course, Google.<span class="more"></span>
 
-![Web Browser Market Share: Chrome overtakes IE](./imgs/chrome-market.png)
+![Web Browser Market Share: Chrome overtakes IE](/imgs/chrome-market.png)
 
 You can check out the graph yourself here: <http://gs.statcounter.com/#browser-ww-monthly-200807-201205>
 

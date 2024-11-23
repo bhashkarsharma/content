@@ -7,6 +7,6 @@ categories: Technology
 tags: javascript
 ---
 
-![Feelings about AngularJS](./imgs/feelings_about_angularjs.png)
+![Feelings about AngularJS](/imgs/feelings_about_angularjs.png)
 
 Funny depiction of what you go through while learning Angular.

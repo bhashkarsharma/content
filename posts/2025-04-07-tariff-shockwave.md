@@ -43,7 +43,7 @@ This is where we trace the likely consequences step-by-step:
 The consequences extend far beyond GDP numbers:
 
 - **A. Real Human Suffering:** Rising unemployment isn't just a statistic. It's directly linked to increased mortality rates (stress, suicide, lack of access to care), mental health crises, homelessness, and poverty. **Economic policy has life-or-death consequences.**
-  > "You know what I hate about fucking banking? It reduces people to numbers. Here is a number - every 1% unemployment goes up, 40,000 people die, did you know that?"
+  > You know what I hate about fucking banking? It reduces people to numbers. Here is a number - every 1% unemployment goes up, 40,000 people die, did you know that?
   >
   > _The Big Short (2015)_
 - **B. Wealth Concentration Accelerates:** Crises are opportunities for those with cash. As markets crash and assets become cheap (stocks, real estate), wealthy individuals and institutions buy them up from those forced to sell or unable to invest. The gap between the rich and everyone else widens dramatically – a trend already well underway, now potentially turbocharged.
